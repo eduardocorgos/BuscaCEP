@@ -1,0 +1,62 @@
+[
+  {
+    "cep": "45980-000",
+    "logradouro": "",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "",
+    "localidade": "Prado",
+    "uf": "BA",
+    "estado": "Bahia",
+    "regiao": "Nordeste",
+    "ibge": "2925501",
+    "gia": "",
+    "ddd": "73",
+    "siafi": "3811"
+  },
+  {
+    "cep": "13101-246",
+    "logradouro": "Rua Primo Antônio Pegorado",
+    "complemento": "",
+    "unidade": "",
+    "bairro": "Jardim Tamoio",
+    "localidade": "Campinas",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": "3509502",
+    "gia": "2446",
+    "ddd": "19",
+    "siafi": "6291"
+  },
+  {
+    "cep": "13806-635",
+    "logradouro": "Avenida Pedro Botesi",
+    "complemento": "de 1230/1231 ao fim",
+    "unidade": "",
+    "bairro": "Jardim Scomparim",
+    "localidade": "Mogi Mirim",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": "3530805",
+    "gia": "4560",
+    "ddd": "19",
+    "siafi": "6717"
+  },
+  {
+    "cep": "13040-085",
+    "logradouro": "Rua Santa Cruz das Palmeiras",
+    "complemento": "de 652/653 ao fim",
+    "unidade": "",
+    "bairro": "Jardim Nova Europa",
+    "localidade": "Campinas",
+    "uf": "SP",
+    "estado": "São Paulo",
+    "regiao": "Sudeste",
+    "ibge": "3509502",
+    "gia": "2446",
+    "ddd": "19",
+    "siafi": "6291"
+  }
+]
